@@ -1,0 +1,6 @@
+<!-- Placeholder for Dynamics 365 customizations -->
+<Customizations>
+    <Entity name="Sponsorship">
+        <Field name="SponsorName" type="string" />
+    </Entity>
+</Customizations>
